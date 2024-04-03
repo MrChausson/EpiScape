@@ -3155,6 +3155,8 @@ MonoBehaviour:
   code: 
   codePosition: 0
   doorState: 1
+  clueMode: 0
+  presetCode: 
 --- !u!114 &518332779
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3421,6 +3423,8 @@ MonoBehaviour:
   code: 
   codePosition: 0
   doorState: 1
+  clueMode: 0
+  presetCode: 
 --- !u!114 &578677225
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7121,6 +7125,8 @@ MonoBehaviour:
   code: 
   codePosition: 0
   doorState: 1
+  clueMode: 0
+  presetCode: 
 --- !u!114 &1527829758
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7203,6 +7209,8 @@ MonoBehaviour:
   code: 
   codePosition: 0
   doorState: 1
+  clueMode: 0
+  presetCode: 
 --- !u!1 &1570327578 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2293805809225510584, guid: ae36fa280cbbacd48895ed733c4a731d,
@@ -8920,7 +8928,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 326729641646d4b73bcfc1f2eb8dd9c8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.8209999
+      value: 1.187
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 326729641646d4b73bcfc1f2eb8dd9c8, type: 3}
       propertyPath: m_LocalPosition.z
